@@ -1,0 +1,15 @@
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\bin\Debug\net9.0\ProgEngHW.exe
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\bin\Debug\net9.0\ProgEngHW.deps.json
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\bin\Debug\net9.0\ProgEngHW.runtimeconfig.json
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\bin\Debug\net9.0\ProgEngHW.dll
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\bin\Debug\net9.0\ProgEngHW.pdb
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ProgEngHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ProgEngHW.AssemblyInfoInputs.cache
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ProgEngHW.AssemblyInfo.cs
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ProgEngHW.csproj.CoreCompileInputs.cache
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ProgEngHW.dll
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\refint\ProgEngHW.dll
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ProgEngHW.pdb
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ProgEngHW.genruntimeconfig.cache
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ref\ProgEngHW.dll
+D:\Учеба\GitRepos\ProgEngiHomework\ProgEngHW\ProgEngHW\obj\Debug\net9.0\ProgEngHW.sourcelink.json
