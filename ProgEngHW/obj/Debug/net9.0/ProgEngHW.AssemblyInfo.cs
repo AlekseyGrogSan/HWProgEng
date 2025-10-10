@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProgEngHW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+caf367397f269066e5e1dab77ac31521816d22d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d98e7b0f46adf5e0d977131c20eef1bda41bbfde")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProgEngHW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProgEngHW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
